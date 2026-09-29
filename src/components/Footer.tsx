@@ -29,7 +29,7 @@ export default function Footer() {
       <div className="mx-auto grid max-w-7xl gap-12 px-6 py-16 md:grid-cols-[1.4fr_1fr_1fr_1.2fr] md:px-10">
         <div>
           <div className="flex items-center gap-2.5">
-            <img src="/assets/images/ChatGPT_Image_Aug_10,_2026,_02_27_52_PM.png" alt="Zynocraftx Technology" className="h-9 w-9 object-contain" />
+            <img src="/assets/images/logo.png" alt="Zynocraftx Technology" className="h-9 w-9 object-contain" />
             <span className="font-display text-[16px] font-bold tracking-tight text-ink">Zynocraftx Technology</span>
           </div>
           <p className="mt-5 max-w-xs text-[14px] leading-relaxed text-muted">

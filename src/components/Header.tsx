@@ -61,7 +61,7 @@ export default function Header() {
     >
       <nav className="mx-auto flex h-[68px] max-w-7xl items-center gap-6 px-5 sm:px-6 md:h-[74px] md:px-10">
         <Link to="/" className="flex shrink-0 items-center gap-2.5">
-          <img src="/assets/images/ChatGPT_Image_Aug_10,_2026,_02_27_52_PM.png" alt="Zynocraftx Technology" className="h-8 w-8 object-contain md:h-9 md:w-9" />
+          <img src="/assets/images/logo.png" alt="Zynocraftx Technology" className="h-8 w-8 object-contain md:h-9 md:w-9" />
           <span className="font-display text-[15px] font-bold tracking-tight text-ink sm:text-[17px]">
             Zynocraftx<span className="hidden text-muted font-medium sm:inline"> Technology</span>
           </span>
